@@ -1,0 +1,16 @@
+body {
+        background-image: url(https://media.giphy.com/media/10Q2g5ucWWVlp6/giphy.gif);
+        opacity: 0.9;
+        background-size: contain;
+      }
+header {
+          margin-left: 17%;
+          width: 66%;
+          opacity: 0.75;
+        }
+.container {
+            margin-left: 17%;
+            width: 66%;
+            opacity: 0.8;
+            background-color: #FFF;
+          }
